@@ -11,7 +11,15 @@ namespace SchedEase
         public string Description { get; set; }
 
         public Appointment(string title, DateTime startTime, DateTime endTime, string description)
-        {
+        {// Constructor for the Appointment class.
+// Initializes a new instance of the Appointment class with the specified title, start time, end time, and description.
+// Parameters:
+// - title: A string representing the title of the appointment.
+// - startTime: A DateTime object indicating when the appointment starts.
+// - endTime: A DateTime object indicating when the appointment ends.
+// - description: A string providing additional details about the appointment.
+public Appointment(string title, DateTime startTime, DateTime endTime, string description)
+
             Title = title;
             StartTime = startTime;
             EndTime = endTime;
