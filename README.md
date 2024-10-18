@@ -1,4 +1,5 @@
-SCHEDULE APPOINTMENT SYSTEM
+
+#SCHEDULE APPOINTMENT SYSTEM
 CASE STUDY: SCHEDEASE
 Team Members: Muskan Sharma and Idowu
 This project involves designing and implementing an appointment scheduling system called Schedease using C#. This system will allow users to schedule, view, update, and manage appointments in a streamlined manner. Here's an overview of how the system would work and its key components:
